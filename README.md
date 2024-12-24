@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://github.com/user-attachments/assets/961e148e-aa23-4c40-8d62-bfe4b974fcec)](https://github.com/abhiruuu)-->
 
 
-Hi 👋 My name is Abhiru Karki
+Hi 👋 I'm Abhiru Karki
 =============================
 I'm into Web Development and I love building cool stuffs.
 * 🌍  I'm based in Nepal
