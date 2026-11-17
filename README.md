@@ -1,11 +1,11 @@
 [![MasterHead](https://github.com/user-attachments/assets/2664a0a2-068b-43ba-9388-0c477bbe5ec3)](https://github.com/abhiruuu)
 
 
-<h1 align="left">Hey there👋I am Abhiru</h1>
+<h1 align="left">Yoo👋 I'm Abhiru</h1>
 
 ###
 
-<p align="left">✨ I love messing around with code<br>📚 I am also a Computer Science Student<br>🎯 Currently focusing on Backend Systems<br>⚡ I have an eye of a designer</p>
+<p align="left">✨ I love messing around with code<br>📚 I am also a computer science student<br>🎯 Currently focused on frontend systems<br>⚡ I have an eye of a designer</p>
 
 ###
 
@@ -14,9 +14,8 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
 ###
