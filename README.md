@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/abhiru-karki-5b105b2b4/](https://www.linkedin.com/in/abhiru-k-5b105b2b4/)" target="_blank">
+  <a href="https://www.linkedin.com/in/abhiru-k-5b105b2b4/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
